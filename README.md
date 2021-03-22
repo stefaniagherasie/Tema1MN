@@ -31,6 +31,7 @@ minina fata de centroizi si se calculeaza costul fiecarui grup prin insumare. La
 costul total este suma tuturor costurilor individuale calculate.
 
 Task 5
+
 Prin apelarea functiilor realizate anterior se obtin punctele, centroizi, costul pentru NC 
 aflandu-se in intervalul [1,10] si se salveza costul intr-un vector cluster_cost care se 
 reprezinta grafic.
